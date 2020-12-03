@@ -203,7 +203,7 @@ class Design extends Component{
     render(){
       const list = this.state.datas.map((data) => {
         return(
-          <div key={data.id} className= "col col-lg-4 col-md-6 p-5">
+          <div key={data.id} className= "col-12 col-lg-4 col-md-6 p-5">
             <div className="eff">
             <Card>
               <CardImg top width="100%" src={data.image} alt="Card image cap" height="250px" />
