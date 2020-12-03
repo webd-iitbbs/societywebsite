@@ -15,7 +15,7 @@ class Pro extends Component{
     render(){
         return(
             <div className="row px-5">
-              <div className='col-3 p-3'>
+              <div className='col-12 col-md-3 p-3'>
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project3.jpg'  />
                   <CardBody>
@@ -31,7 +31,7 @@ class Pro extends Component{
                   </CardBody>
                 </Card>
               </div>
-              <div className='col-3 p-3'>
+              <div className='col-12 col-md-3 p-3'>
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project2.jpg'  />
                   <CardBody>
@@ -48,7 +48,7 @@ class Pro extends Component{
                   </CardBody>
                 </Card>
               </div>
-              <div className='col-3 p-3'>
+              <div className='col-12 col-md-3 p-3'>
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project3.jpg' />
                   <CardBody>
@@ -63,7 +63,7 @@ class Pro extends Component{
                   </CardBody>
                 </Card>
               </div>
-              <div className='col-3 p-3'>
+              <div className='col-12 col-md-3 p-3'>
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project3.jpg' />
                   <CardBody>
@@ -134,7 +134,7 @@ class Web extends Component{
     render(){
         const list = this.state.datas.map((data) => {
             return(
-                <div className=' col col-md-12 col-sm-12 col-lg-3 p-3' key={data.id}>
+                <div className=' col-12 col-md-12 col-sm-12 col-lg-3 p-3' key={data.id}>
                 <Card>
                   <img width="100%" src={data.image} alt="For example" />
                   <CardBody>

@@ -10,7 +10,7 @@ function Header(){
             <div className="col-xl-11 d-flex align-items-center">
             <a href="./Home" class="logo"><img src={logo} class="img-fluid" /></a>
             <div className="logo mr-auto d-none d-md-block" style={{marginTop: '8px'}}><h2>WEB AND DESIGN</h2></div>
-            <div className="logo mr-auto d-md-none"><h5>WEB AND DESIGN</h5></div>
+            <div className="logo mr-auto d-md-none" style={{marginTop: '5px'}}><h5>WEB AND DESIGN</h5></div>
             
             
             <nav className="nav-menu d-none d-lg-block">
