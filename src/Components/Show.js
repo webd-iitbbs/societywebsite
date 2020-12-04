@@ -4,13 +4,12 @@ import './show.css';
 import { BrowserRouter } from 'react-router-dom';
 import Header from "./Header";
 import Footer from "./Footer";
-import illustration from './img/showcase.jpg';
 
 function Info(){
   return(
     <div lassName="row">
     <div style={{height:'100vh' , fontWeight:'1000px', fontSize:'60px',paddingTop:'300px', paddingLeft: '120px'}}><b>SHOWCASE</b></div>
-    <div style={{ left:'50%',position:'absolute', top: '25%'}}><img src={illustration} style={{maxWidth:'100%', maxHeight:'100%'}} alt=""/></div>
+    <div style={{ left:'50%',position:'absolute', top: '10%'}}><img src='./assets/img/showcase.jpg' style={{maxWidth:'100%', maxHeight:'100%'}} alt=""/></div>
   </div>
   );
 }

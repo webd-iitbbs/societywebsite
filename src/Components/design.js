@@ -163,7 +163,7 @@ class Design extends Component{
               },
               {
                 id: 9,
-                title: 'Earth Day',
+                title: 'Ganesh Chaturthi',
                 image: 'assets/img/9.jpg',
                 subtitle: 'SonuTez',
               },

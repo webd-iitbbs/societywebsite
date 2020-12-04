@@ -95,28 +95,28 @@ class Web extends Component{
                {
                  id: 0,
                  title: 'Local OLX',
-                 image: 'http://rohith-portfolio.herokuapp.com/images/project3.jpg',
+                 image: 'assets/img/olx.jpg',
                  
                  text: 'Idea of the project',
                },
                {
                  id: 1,
                  title: 'Intra Quora',
-                 image: 'http://rohith-portfolio.herokuapp.com/images/project3.jpg',
+                 image: 'assets/img/quora.jpg',
                 
                  text: 'Idea of the project',
                },
                {
                  id: 2,
                  title: 'Live Quiz Multiplayer',
-                 image: 'http://rohith-portfolio.herokuapp.com/images/project3.jpg',
+                 image: 'assets/img/quiz.jpg',
                  
                  text: 'Idea of the project',
                },
                {
                  id: 3,
                  title: 'Travel Companion',
-                 image: 'http://rohith-portfolio.herokuapp.com/images/project3.jpg', 
+                 image: 'assets/img/travel.jpg', 
                  
                  text: 'Idea of the project',
                },
