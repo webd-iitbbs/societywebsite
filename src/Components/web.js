@@ -17,7 +17,7 @@ class Pro extends Component{
             <div className="row px-5">
               <div className='col-12 col-md-3 p-3'>
                 <Card>
-                  <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project3.jpg'  />
+                  <img width="100%" src='https://github.com/webd-iitbbs/gymkhana-iitbbs'  />
                   <CardBody>
                   <CardTitle tag="h5"><a href='#'>Gymkhana, IIT BBS</a></CardTitle>
                     <CardText></CardText>
@@ -35,7 +35,7 @@ class Pro extends Component{
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project2.jpg'  />
                   <CardBody>
-                  <CardTitle tag="h5"><a href='#'>CDC-IITBBS</a> </CardTitle>
+                  <CardTitle tag="h5"><a href='https://github.com/webd-iitbbs/cdc-iitbbs'>CDC-IITBBS</a> </CardTitle>
                     <CardText>Some thing about website</CardText>
                     <div className='row'>
                     <Button outline color="primary" className='col-6' style={{marginTop:'6px'}}>PHP-Laravel</Button>&nbsp;&nbsp;
@@ -52,7 +52,7 @@ class Pro extends Component{
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project3.jpg' />
                   <CardBody>
-                  <CardTitle tag="h5"><a href='#'>Academic council</a></CardTitle>
+                  <CardTitle tag="h5"><a href='https://github.com/webd-iitbbs/Academic-Council'>Academic council</a></CardTitle>
                     <CardText>Some thing about website</CardText>
                     <div className='row'>
                     <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>React js</Button>&nbsp;&nbsp;
@@ -67,7 +67,7 @@ class Pro extends Component{
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project3.jpg' />
                   <CardBody>
-                  <CardTitle tag="h5"><a href='#'>Intense Prediction League (in collaboration with Ashvamedha)</a></CardTitle>
+                  <CardTitle tag="h5"><a href='https://github.com/webd-iitbbs/ProjectIPL'>Intense Prediction League (in collaboration with Ashvamedha)</a></CardTitle>
                     <CardText>Some thing about website</CardText>
                     <div className='row'>
                     <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>Javascript</Button>&nbsp;&nbsp;
