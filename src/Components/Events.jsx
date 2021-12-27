@@ -45,11 +45,12 @@ function App() {
           <hr className='hr' style={{width: '80vw'}}/>
       </div>
       <div className="container">
-        <Event date='Dec - Jan' name='Online Workshop' event='Open Workshop' info='Covers right from the basic to an advanced Nodejs Level.'/>
-        <Event date='27th Oct - 26th Nov' name='CreatiWFacts' event='Open Event' info='An online event in which the society posts the basic functions and usage of all the photoshop tools.'/>
-        <Event date='11th Nov - 15th Nov' name='Digital Arts Competition' event='Open Competition' info='The society organises a design competition on the occasion of National Education Day.'/>
-        <Event date='27th June' name='Web UI Workshop' event='Closed Webinar' info='A webinar conductd in collaboration with Eeveno. The webinar covers Basics of Prototyping, Responsive grids, components states and naming conventions . '/>
-        <Event date='21st May - 1st June' name='Online Workshop on PHP MySQL' event='Open Workshop' info='A 12 day online workshop in which the members post the resources sufficient enough to gain basic knowledge on HTML, CSS, Bootstrap, PHP and MySQL.'/>
+        <Event date='22nd June 2022' name='Portfolio Website Development Competition' event='Open Competition' info='A competition for students of IITBBS to design and develop a portfolio website'/>
+        <Event date='Dec - Jan' name='CreatiwFacts2' event='Open Event' info='An online event in which the society posts the basic functions and usage of all the Adobe XD tools.'/>
+        <Event date='January 2022' name='React JS Workshop' event='Open Workshop' info='A workshop on React JS, it`s fundamentals and usage'/>
+        <Event date='January 2022' name='Node JS Workshop' event='Open Workshop' info='A workshop on Node JS, it`s fundamentals and usage'/>
+        <Event date='January 2022' name='Pan IIT Website Development Competition' event='Open Competition' info='A competition where students from IITs all over India will participate'/>
+        
       </div>
       <br></br>
       <Footer />
