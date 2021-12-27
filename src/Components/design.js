@@ -199,8 +199,32 @@ class Design extends Component{
               },
               {
                 id: 15,
-                title: 'ROS Workshop',
-                image: 'assets/img/14.jpg',
+                title: 'National Sports Day',
+                image: 'assets/img/15.jpg',
+                subtitle: 'Krishna',
+              },
+               {
+                id: 16,
+                title: 'Counselling Services',
+                image: 'assets/img/16.jpg',
+                subtitle: 'Krishna',
+              },
+               {
+                id: 17,
+                title: 'Rubiks cube',
+                image: 'assets/img/17.jpg',
+                subtitle: 'Krishna',
+              },
+               {
+                id: 18,
+                title: 'Campus Protocols',
+                image: 'assets/img/18.jpg',
+                subtitle: 'Krishna',
+              },
+               {
+                id: 19,
+                title: 'Creatifatcs',
+                image: 'assets/img/19.jpg',
                 subtitle: 'Krishna',
               },
              ]
