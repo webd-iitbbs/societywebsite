@@ -199,7 +199,7 @@ class Design extends Component{
               },
               {
                 id: 15,
-                title: 'National Sports Day',
+                title: 'Campus Protocols',
                 image: 'assets/img/15.jpg',
                 subtitle: 'Krishna',
               },
@@ -211,20 +211,8 @@ class Design extends Component{
               },
                {
                 id: 17,
-                title: 'Rubiks cube',
-                image: 'assets/img/17.jpg',
-                subtitle: 'Krishna',
-              },
-               {
-                id: 18,
-                title: 'Campus Protocols',
-                image: 'assets/img/18.jpg',
-                subtitle: 'Krishna',
-              },
-               {
-                id: 19,
                 title: 'Creatifatcs',
-                image: 'assets/img/19.jpg',
+                image: 'assets/img/17.png',
                 subtitle: 'Krishna',
               },
              ]
