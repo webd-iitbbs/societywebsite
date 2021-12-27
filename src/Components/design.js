@@ -202,7 +202,7 @@ class Design extends Component{
                 title: 'ROS Workshop',
                 image: 'assets/img/14.jpg',
                 subtitle: 'Krishna',
-              }
+              },
              ]
         }
     }
