@@ -15,22 +15,72 @@ class Pro extends Component{
     render(){
         return(
             <div className="row px-5">
-              <div className='col-12 col-md-3 p-3'>
+          <div className='col-12 col-md-3 p-3'>
                 <Card>
-                  <img width="100%" src='https://github.com/webd-iitbbs/gymkhana-iitbbs'  />
+                  <img width="100%" src='assets/img/astro.png'  />
                   <CardBody>
-                  <CardTitle tag="h5"><a href='#'>Gymkhana, IIT BBS</a></CardTitle>
+                  <CardTitle tag="h5"><a href='#'>Astrochamp, a collaboration with Nakshatra</a></CardTitle>
                     <CardText></CardText>
                     <div className='row'>
                     <Button outline color="primary"className='col-5' style={{marginTop:'6px'}}>Bootstrap</Button>&nbsp;&nbsp;
                     <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>Javascript</Button>&nbsp;&nbsp;
-                    <Button outline color="primary" className='col-3' style={{marginTop:'6px'}}>PHP</Button>&nbsp;&nbsp;
-                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>MySQL</Button>
+                    <Button outline color="primary" className='col-3' style={{marginTop:'6px'}}>HTML</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>CSS</Button>
                    
                     </div>
                   </CardBody>
                 </Card>
               </div>
+ <div className='col-12 col-md-3 p-3'>
+                <Card>
+                  <img width="100%" src='assets/img/mindball.png'  />
+                  <CardBody>
+                  <CardTitle tag="h5"><a href='#'>Mindball, a collaboration with Sports Council</a></CardTitle>
+                    <CardText></CardText>
+                    <div className='row'>
+                    <Button outline color="primary"className='col-5' style={{marginTop:'6px'}}>Bootstrap</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>Javascript</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-3' style={{marginTop:'6px'}}>HTML</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>CSS</Button>
+                   
+                    </div>
+                  </CardBody>
+                </Card>
+              </div>
+<div className='col-12 col-md-3 p-3'>
+                <Card>
+                  <img width="100%" src='assets/img/oracle.png'  />
+                  <CardBody>
+                  <CardTitle tag="h5"><a href='#'>Oracle, a collaboration with Panacea</a></CardTitle>
+                    <CardText></CardText>
+                    <div className='row'>
+                    <Button outline color="primary"className='col-5' style={{marginTop:'6px'}}>Bootstrap</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>Javascript</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-3' style={{marginTop:'6px'}}>NodeJS</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>EJS</Button>
+                   
+                    </div>
+                  </CardBody>
+                </Card>
+              </div>
+<div className='col-12 col-md-3 p-3'>
+                <Card>
+                  <img width="100%" src='assets/img/acad.png'  />
+                  <CardBody>
+                  <CardTitle tag="h5"><a href='#'>Academic Resource Portal, a collaboration with Academic Council</a></CardTitle>
+                    <CardText></CardText>
+                    <div className='row'>
+                    <Button outline color="primary"className='col-5' style={{marginTop:'6px'}}>Bootstrap</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>Javascript</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-3' style={{marginTop:'6px'}}>HTML</Button>&nbsp;&nbsp;
+                    <Button outline color="primary" className='col-5' style={{marginTop:'6px'}}>CSS</Button>
+                   
+                    </div>
+                  </CardBody>
+                </Card>
+              </div>
+
+              
               <div className='col-12 col-md-3 p-3'>
                 <Card>
                   <img width="100%" src='http://rohith-portfolio.herokuapp.com/images/project2.jpg'  />
