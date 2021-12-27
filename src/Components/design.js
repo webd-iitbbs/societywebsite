@@ -197,6 +197,12 @@ class Design extends Component{
                 image: 'assets/img/14.jpg',
                 subtitle: 'Krishna',
               },
+              {
+                id: 15,
+                title: 'ROS Workshop',
+                image: 'assets/img/14.jpg',
+                subtitle: 'Krishna',
+              }
              ]
         }
     }
